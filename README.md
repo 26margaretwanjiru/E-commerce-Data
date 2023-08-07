@@ -1,4 +1,4 @@
-# E-commerce-Data
+# E-commerce Data Analysis
 
 # 1.0 Background
 According to statista.com(https://www.statista.com/topics/871/online-shopping/#topicOverview), over the last few years, e-commerce has become an indispensable part of global retail. Like many other industries, buying and selling goods has undergone a substantial transformation following the advent of the internet, and thanks to the ongoing digitalization of modern life, consumers all over the world now profit from the perks of online transactions.
@@ -26,6 +26,8 @@ Content "This is a transnational data set which contains all the transactions oc
 Acknowledgements Per the UCI Machine Learning Repository, this data was made available by Dr Daqing Chen, Director: Public Analytics group. chend '@' lsbu.ac.uk, School of Engineering, London South Bank University, London SE1 0AA, UK.
 
 The data contains 541,910 rows and 8 columns.
+
+Data Source - Kaggle (https://www.kaggle.com/datasets/carrie1/ecommerce-data)
 
 Variable Description
 
